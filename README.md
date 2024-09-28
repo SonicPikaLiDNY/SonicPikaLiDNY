@@ -8,7 +8,8 @@ Live in Germany
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SonicPikaLiDNY&layout=compact)
 
-https://widgets.vendicated.dev/user?id=1283155529081819288&theme=dark&banner=false&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&background-color=%23000000
+ <!--- https://widgets.vendicated.dev/user?id=1283155529081819288&theme=dark&banner=false&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=true&background-color=%23000000
+--->
 
 <!---
 SonicPikaLiDNY/SonicPikaLiDNY is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
